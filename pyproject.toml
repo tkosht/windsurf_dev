@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "cursor project"
+name = "windsurf project"
 version = "0.1.0"
-description = "Cursor 実験用"
-authors = ["tkosht <your.email@example.com>"]
+description = "Windsurf 実験用"
+authors = ["tkosht <takehito.oshita.business@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"

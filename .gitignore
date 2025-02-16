@@ -17,15 +17,14 @@ bkup/
 .chroma/
 .*.swp
 ?.sh
-.env
+.env*
 
 # Ignore other dot files/directories
-.*
-.*/
 
 *logs/
 
 # Allow cursor file
+!.cursor/
 !.cursorrules
 !.cursorban
 !.clinerules
